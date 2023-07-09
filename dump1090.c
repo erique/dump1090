@@ -29,6 +29,8 @@
 //
 #include "coaa.h"
 #include "dump1090.h"
+
+struct Modes Modes;
 //
 // ============================= Utility functions ==========================
 //
